@@ -8,6 +8,8 @@
 ##### Downloads:
 ##### [docker](#docker) | [debian/ubuntu](#debian) | [arch (aur)](#aur) | [other platforms](#other-platforms)
 ---
+JAM - A Security & Hardening Focused fork of;
+---
 jfa-go is a user management app for [Jellyfin](https://github.com/jellyfin/jellyfin) (and now [Emby](https://emby.media/)) that provides invite-based account creation as well as other features that make one's instance much easier to manage.
 
 a rewrite of [jellyfin-accounts](https://github.com/hrfee/jellyfin-accounts) (original naming for both, ik 
