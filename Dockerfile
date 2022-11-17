@@ -23,7 +23,7 @@ FROM golang:latest
 COPY --from=build /opt/build/build /opt/jfa-go
 
 EXPOSE 8056
-EXPOSE 8057
+EXPOSE 9456
 
 CMD [ "/opt/jfa-go/jfa-go", "-data", "/data" ]
 
